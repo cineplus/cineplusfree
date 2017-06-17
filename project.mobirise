@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "2017-2015.html",
     "name": "cineplus",
     "theme": {
       "name": "mobirise3",
@@ -902,7 +902,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857.jpg",
                 "caption": "<b>DANGAL</b><br>IMDB : 8.8<br><br><a href=\"dangal-eng.html\">SEE MORE</a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Action, Adventure, Sci-Fi",
@@ -952,7 +952,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x2857.jpg",
                 "caption": "<b>BOYKA UNDISPUTED 4</b><br>IMDB : 8.3<br><br><a href=\"boyka4-eng.html\">SEE MORE</a>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Adventure, Comedy, Drama",
@@ -6723,7 +6723,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x28570.jpg",
                 "caption": "<b>DANGAL</b><br>IMDB : 8.8<br><br><a href=\"page8.html\">SEE MORE</a>",
                 "active": true
               },
@@ -6743,7 +6743,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5botazodezndazml5bml5banbnxkftztgwmdu1mtgznze-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5botazodezndazml5bml5banbnxkftztgwmdu1mtgznze-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5botazodezndazml5bml5banbnxkftztgwmdu1mtgznze-2000x28571.jpg",
                 "caption": "<b>STAR WARS 7</b><br>IMDB : 8.6<br><br><a href=\"page10.html\">SEE MORE</a>",
                 "active": false
               },
@@ -6753,7 +6753,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x28572.jpg",
                 "caption": "<b>CAPTAIN AMERICA : CIVIL WAR</b><br>IMDB : 8.5<br><br><a href=\"page11.html\">SEE MORE</a>",
                 "active": false
               },
@@ -6763,7 +6763,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x28573.jpg",
                 "caption": "<b>LOGAN</b><br>IMDB : 8.5<br><br><a href=\"page12.html\">SEE MORE</a>",
                 "active": false
               },
@@ -6773,7 +6773,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x28574.jpg",
                 "caption": "<b>BOYKA UNDISPUTED 4</b><br>IMDB : 8.3<br><br><a href=\"page13.html\">SEE MORE</a>",
                 "active": false
               },
@@ -7121,7 +7121,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x28570.jpg",
                 "caption": "<b>DANGAL</b><br>IMDB : 8.8<br><br><a href=\"page8.html\">SEE MORE</a>",
                 "active": true
               },
@@ -7141,7 +7141,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5botazodezndazml5bml5banbnxkftztgwmdu1mtgznze-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5botazodezndazml5bml5banbnxkftztgwmdu1mtgznze-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5botazodezndazml5bml5banbnxkftztgwmdu1mtgznze-2000x28571.jpg",
                 "caption": "<b>STAR WARS 7</b><br>IMDB : 8.6<br><br><a href=\"page10.html\">SEE MORE</a>",
                 "active": false
               },
@@ -7151,7 +7151,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x28572.jpg",
                 "caption": "<b>CAPTAIN AMERICA : CIVIL WAR</b><br>IMDB : 8.5<br><br><a href=\"page11.html\">SEE MORE</a>",
                 "active": false
               },
@@ -7161,7 +7161,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x28573.jpg",
                 "caption": "<b>LOGAN</b><br>IMDB : 8.5<br><br><a href=\"page12.html\">SEE MORE</a>",
                 "active": false
               },
@@ -7171,7 +7171,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x28574.jpg",
                 "caption": "<b>BOYKA UNDISPUTED 4</b><br>IMDB : 8.3<br><br><a href=\"page13.html\">SEE MORE</a>",
                 "active": false
               },
@@ -7519,7 +7519,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x28570.jpg",
                 "caption": "<b>DANGAL</b><br>IMDB : 8.8<br><br><a href=\"page8.html\">SEE MORE</a>",
                 "active": true
               },
@@ -7539,7 +7539,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5botazodezndazml5bml5banbnxkftztgwmdu1mtgznze-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5botazodezndazml5bml5banbnxkftztgwmdu1mtgznze-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5botazodezndazml5bml5banbnxkftztgwmdu1mtgznze-2000x28571.jpg",
                 "caption": "<b>STAR WARS 7</b><br>IMDB : 8.6<br><br><a href=\"page10.html\">SEE MORE</a>",
                 "active": false
               },
@@ -7549,7 +7549,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x28572.jpg",
                 "caption": "<b>CAPTAIN AMERICA : CIVIL WAR</b><br>IMDB : 8.5<br><br><a href=\"page11.html\">SEE MORE</a>",
                 "active": false
               },
@@ -7559,7 +7559,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x28573.jpg",
                 "caption": "<b>LOGAN</b><br>IMDB : 8.5<br><br><a href=\"page12.html\">SEE MORE</a>",
                 "active": false
               },
@@ -7569,7 +7569,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x28574.jpg",
                 "caption": "<b>BOYKA UNDISPUTED 4</b><br>IMDB : 8.3<br><br><a href=\"page13.html\">SEE MORE</a>",
                 "active": false
               },
@@ -7917,7 +7917,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x28570.jpg",
                 "caption": "<b>DANGAL</b><br>IMDB : 8.8<br><br><a href=\"page8.html\">SEE MORE</a>",
                 "active": true
               },
@@ -7937,7 +7937,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5botazodezndazml5bml5banbnxkftztgwmdu1mtgznze-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5botazodezndazml5bml5banbnxkftztgwmdu1mtgznze-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5botazodezndazml5bml5banbnxkftztgwmdu1mtgznze-2000x28571.jpg",
                 "caption": "<b>STAR WARS 7</b><br>IMDB : 8.6<br><br><a href=\"page10.html\">SEE MORE</a>",
                 "active": false
               },
@@ -7947,7 +7947,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x28572.jpg",
                 "caption": "<b>CAPTAIN AMERICA : CIVIL WAR</b><br>IMDB : 8.5<br><br><a href=\"page11.html\">SEE MORE</a>",
                 "active": false
               },
@@ -7957,7 +7957,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x28573.jpg",
                 "caption": "<b>LOGAN</b><br>IMDB : 8.5<br><br><a href=\"page12.html\">SEE MORE</a>",
                 "active": false
               },
@@ -7967,7 +7967,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x2857.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x28574.jpg",
                 "caption": "<b>BOYKA UNDISPUTED 4</b><br>IMDB : 8.3<br><br><a href=\"page13.html\">SEE MORE</a>",
                 "active": false
               },
