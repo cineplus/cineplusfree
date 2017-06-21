@@ -6568,7 +6568,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtuymte0odcxnf5bml5banbnxkftztgwode4ndqznte-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmtuymte0odcxnf5bml5banbnxkftztgwode4ndqznte-2000x28574.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtuymte0odcxnf5bml5banbnxkftztgwode4ndqznte-2000x285712.jpg",
                 "caption": "<b>MAD MAX : FURY ROAD</b><br>IMDB : 8.6<br><br><a href=\"page9.html\">SEE MORE</a>",
                 "active": false
               },
@@ -6590,7 +6590,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mv5botgxmdqwmdk0of5bml5banbnxkftztgwnju5otg2nde-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5botgxmdqwmdk0of5bml5banbnxkftztgwnju5otg2nde-2000x2857.jpg",
                 "caption": "<b>INSIDE OUT</b><br>IMDB : 8.5<br><br><a href=\"page11.html\">SEE MORE</a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Aksiyon, Macera, Bilim-Kurgu",
@@ -6598,7 +6598,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x28575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x285713.jpg",
                 "caption": "<b>CAPTAIN AMERICA : CIVIL WAR</b><br>IMDB : 8.5<br><br><a href=\"page12.html\">SEE MORE</a>",
                 "active": false
               },
@@ -6608,7 +6608,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x28576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x285714.jpg",
                 "caption": "<b>LOGAN</b><br>IMDB : 8.5<br><br><a href=\"page13.html\">SEE MORE</a>",
                 "active": false
               },
@@ -6623,14 +6623,14 @@
                 "active": false
               },
               {
-                "tags": "Aksiyon, Suç, Geriilim",
+                "tags": "Aksiyon, Suç, Gerilim",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmje2ndkxnty2m15bml5banbnxkftztgwmdc2nze0mti-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmje2ndkxnty2m15bml5banbnxkftztgwmdc2nze0mti-2000x2857.jpg",
                 "caption": "<b>JOHN WICK : CHAPTER 2</b><br>IMDB : 8.4<br><br><a href=\"page15.html\">SEE MORE</a>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Dram",
@@ -6808,7 +6808,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjewmzmxodizov5bml5banbnxkftztgwnzg3otazmdi-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjewmzmxodizov5bml5banbnxkftztgwnzg3otazmdi-2000x28577.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjewmzmxodizov5bml5banbnxkftztgwnzg3otazmdi-2000x285715.jpg",
                 "caption": "<b>ROGUE ONE</b><br>IMDB : 8.0<br><br><a href=\"page33.html\">SEE MORE</a>",
                 "active": false
               }
