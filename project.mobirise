@@ -6559,7 +6559,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bnty4otq3ndiwmf5bml5banbnxkftztgwotk4mzkzmdi-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bnty4otq3ndiwmf5bml5banbnxkftztgwotk4mzkzmdi-2000x2857.jpg",
-                "caption": "<b>THE IVORY GAME</b><br>IMDB : 8.7<br><br><a href=\"page8.html\">SEE MORE</a>",
+                "caption": "<b>THE IVORY GAME</b><br>IMDB : 8.7<br><span style=\"font-size: 0.9em; line-height: 1.5;\"><br></span><span style=\"font-size: 0.9em; line-height: 1.5;\">iNCELE</span><br>",
                 "active": false
               },
               {
@@ -6568,8 +6568,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtuymte0odcxnf5bml5banbnxkftztgwode4ndqznte-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmtuymte0odcxnf5bml5banbnxkftztgwode4ndqznte-2000x285712.jpg",
-                "caption": "<b>MAD MAX : FURY ROAD</b><br>IMDB : 8.6<br><br><a href=\"page9.html\">SEE MORE</a>",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtuymte0odcxnf5bml5banbnxkftztgwode4ndqznte-2000x28578.jpg",
+                "caption": "<b>MAD MAX : FURY ROAD</b><br>IMDB : 8.6<br><br>iNCELE<br>",
                 "active": false
               },
               {
@@ -6579,7 +6579,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjixnzm1odmynf5bml5banbnxkftztgwmtg5nze2ode-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmjixnzm1odmynf5bml5banbnxkftztgwmtg5nze2ode-2000x2857.jpg",
-                "caption": "<b>ANNABELLE HOOPER &amp; THE GHOSTS OF NANTUCHET</b><br>IMDB : 8.6<br><br><a href=\"page10.html\">SEE MORE</a>",
+                "caption": "<b>ANNABELLE HOOPER &amp; THE GHOSTS OF NANTUCHET</b><br>IMDB : 8.6<br><br><a href=\"page10.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6589,7 +6589,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5botgxmdqwmdk0of5bml5banbnxkftztgwnju5otg2nde-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5botgxmdqwmdk0of5bml5banbnxkftztgwnju5otg2nde-2000x2857.jpg",
-                "caption": "<b>INSIDE OUT</b><br>IMDB : 8.5<br><br><a href=\"page11.html\">SEE MORE</a>",
+                "caption": "<b>INSIDE OUT</b><br>IMDB : 8.5<br><br><a href=\"page11.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6598,8 +6598,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x285713.jpg",
-                "caption": "<b>CAPTAIN AMERICA : CIVIL WAR</b><br>IMDB : 8.5<br><br><a href=\"page12.html\">SEE MORE</a>",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x28579.jpg",
+                "caption": "<b>CAPTAIN AMERICA : CIVIL WAR</b><br>IMDB : 8.5<br><br><a href=\"page12.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6608,8 +6608,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x285714.jpg",
-                "caption": "<b>LOGAN</b><br>IMDB : 8.5<br><br><a href=\"page13.html\">SEE MORE</a>",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x285710.jpg",
+                "caption": "<b>LOGAN</b><br>IMDB : 8.5<br><br><a href=\"page13.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6619,7 +6619,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bnty4mdgwoti3m15bml5banbnxkftztgwnjyxmju3nje-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bnty4mdgwoti3m15bml5banbnxkftztgwnjyxmju3nje-2000x2857.jpg",
-                "caption": "<b>WINTER ON FIRE : UKRAINE' S FIGHT FOR FREEDOM</b><br>IMDB : 8.4<br><br><a href=\"page14.html\">SEE MORE</a>",
+                "caption": "<b>WINTER ON FIRE : UKRAINE' S FIGHT FOR FREEDOM</b><br>IMDB : 8.4<br><br><a href=\"page14.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6629,7 +6629,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmje2ndkxnty2m15bml5banbnxkftztgwmdc2nze0mti-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmje2ndkxnty2m15bml5banbnxkftztgwmdc2nze0mti-2000x2857.jpg",
-                "caption": "<b>JOHN WICK : CHAPTER 2</b><br>IMDB : 8.4<br><br><a href=\"page15.html\">SEE MORE</a>",
+                "caption": "<b>JOHN WICK : CHAPTER 2</b><br>IMDB : 8.4<br><br><a href=\"page15.html\">iNCELE</a>",
                 "active": true
               },
               {
@@ -6639,7 +6639,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmje4nzgznzewml5bml5banbnxkftztgwmtmzmde0nje-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmje4nzgznzewml5bml5banbnxkftztgwmtmzmde0nje-2000x2857.jpg",
-                "caption": "<b>KUBO &amp; THE TWO STRINGS</b><br>IMDB : 8.3<br><br><a href=\"page16.html\">SEE MORE</a>",
+                "caption": "<b>KUBO &amp; THE TWO STRINGS</b><br>IMDB : 8.3<br><br><a href=\"page16.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6649,7 +6649,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5botmymjeynzizmv5bml5banbnxkftztgwnziynju0nze-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5botmymjeynzizmv5bml5banbnxkftztgwnziynju0nze-2000x2857.jpg",
-                "caption": "<b>WONDER WOMAN</b><br>IMDB : 8.3<br><br><a href=\"page17.html\">SEE MORE</a>",
+                "caption": "<b>WONDER WOMAN</b><br>IMDB : 8.3<br><br><a href=\"page17.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6659,7 +6659,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmja2mzg2ndmznl5bml5banbnxkftztgwmjcwoduzote-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmja2mzg2ndmznl5bml5banbnxkftztgwmjcwoduzote-2000x2857.jpg",
-                "caption": "<b>ROOM</b><br>IMDB : 8.3<br><br><a href=\"page18.html\">SEE MORE</a>",
+                "caption": "<b>ROOM</b><br>IMDB : 8.3<br><br><a href=\"page18.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6669,7 +6669,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bndfmzjgymtetytk5mc00nmy0lwjhzjktowy2mzi5yjkzodnlxkeyxkfqcgdeqxvymda4nzmyoa-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bndfmzjgymtetytk5mc00nmy0lwjhzjktowy2mzi5yjkzodnlxkeyxkfqcgdeqxvymda4nzmyoa-2000x2857.jpg",
-                "caption": "<b>ZOOTOPIA</b><br>IMDB : 8.3<br><br><a href=\"page19.html\">SEE MORE</a>",
+                "caption": "<b>ZOOTOPIA</b><br>IMDB : 8.3<br><br><a href=\"page19.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6679,7 +6679,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmgnjoddmzwitognmni00ogmwlwe2zmetmgrlmjzmyzy0nzk0l2ltywdlxkeyxkfqcgdeqxvymtq3mtk1nzq-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmgnjoddmzwitognmni00ogmwlwe2zmetmgrlmjzmyzy0nzk0l2ltywdlxkeyxkfqcgdeqxvymtq3mtk1nzq-2000x2857.jpg",
-                "caption": "<b>THE CONJURING 2</b><br>IMDB : 8.1<br><br><a href=\"page20.html\">SEE MORE</a>",
+                "caption": "<b>THE CONJURING 2</b><br>IMDB : 8.1<br><br><a href=\"page20.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6689,7 +6689,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtc2mtq3mda1nl5bml5banbnxkftztgwoda3oti4nje-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmtc2mtq3mda1nl5bml5banbnxkftztgwoda3oti4nje-2000x2857.jpg",
-                "caption": "<b>THE WHITE HELMETS</b><br>IMDB : 8.1<br><br><a href=\"page21.html\">SEE MORE</a>",
+                "caption": "<b>THE WHITE HELMETS</b><br>IMDB : 8.1<br><br><a href=\"page21.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6699,7 +6699,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bzju5owvln2etodnlyy00mjhhlwi0mdutmta3mmq5mgmwytzmxkeyxkfqcgdeqxvynje5mtm4mzy-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bzju5owvln2etodnlyy00mjhhlwi0mdutmta3mmq5mgmwytzmxkeyxkfqcgdeqxvynje5mtm4mzy-2000x2857.jpg",
-                "caption": "<b>THAT' S NOT ME</b><br>IMDB : 8.3<br><br><a href=\"page22.html\">SEE MORE</a>",
+                "caption": "<b>THAT' S NOT ME</b><br>IMDB : 8.3<br><br><a href=\"page22.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6709,7 +6709,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmze4ztq3m2ytyjy4zs00ownhlwfkyjgtnwiynzkyowq5mge1xkeyxkfqcgdeqxvymjmwnjuwmtc-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmze4ztq3m2ytyjy4zs00ownhlwfkyjgtnwiynzkyowq5mge1xkeyxkfqcgdeqxvymjmwnjuwmtc-2000x2857.jpg",
-                "caption": "<b>THE MARTIAN</b><br>IMDB : 8.1<br><br><a href=\"page23.html\">SEE MORE</a>",
+                "caption": "<b>THE MARTIAN</b><br>IMDB : 8.1<br><br><a href=\"page23.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6719,7 +6719,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmji4mzu5ntexnf5bml5banbnxkftztgwnzy1mtewmdi-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmji4mzu5ntexnf5bml5banbnxkftztgwnzy1mtewmdi-2000x2857.jpg",
-                "caption": "<b>MY FIRST MIRACLE</b><br>IMDB : 8.1<br><br><a href=\"page24.html\">SEE MORE</a>",
+                "caption": "<b>MY FIRST MIRACLE</b><br>IMDB : 8.1<br><br><a href=\"page24.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6729,7 +6729,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bngzlodc0yjgtnwzjns00ngnjltgwotutmtllzteyyje0ytmwxkeyxkfqcgdeqxvynjuwnzk3ndc-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bngzlodc0yjgtnwzjns00ngnjltgwotutmtllzteyyje0ytmwxkeyxkfqcgdeqxvynjuwnzk3ndc-2000x2857.jpg",
-                "caption": "<b>COUNTERPUNCH</b><br>IMDB : 8.1<br><br><a href=\"page25.html\">SEE MORE</a>",
+                "caption": "<b>COUNTERPUNCH</b><br>IMDB : 8.1<br><br><a href=\"page25.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6739,7 +6739,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtuxmzq5odcxnl5bml5banbnxkftztgwoty1ndq0nze-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmtuxmzq5odcxnl5bml5banbnxkftztgwoty1ndq0nze-2000x2857.jpg",
-                "caption": "<b>MOANA</b><br>IMDB : 8.1<br><br><a href=\"page26.html\">SEE MORE</a>",
+                "caption": "<b>MOANA</b><br>IMDB : 8.1<br><br><a href=\"page26.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6749,7 +6749,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5by2q5ztvin2itndrlos00mje1lwi1odctnjfhnji2mzm5nwzlxkeyxkfqcgdeqxvynjc4nzk3nzu-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5by2q5ztvin2itndrlos00mje1lwi1odctnjfhnji2mzm5nwzlxkeyxkfqcgdeqxvynjc4nzk3nzu-2000x2857.jpg",
-                "caption": "<b>TEEN TITANS : THE JUDAS CONTRACT</b><br>IMDB : 8.1<br><br><a href=\"page27.html\">SEE MORE</a>",
+                "caption": "<b>TEEN TITANS : THE JUDAS CONTRACT</b><br>IMDB : 8.1<br><br><a href=\"page27.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6759,7 +6759,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmja5njm3ntk1m15bml5banbnxkftztgwmzg1mzu2nje-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmja5njm3ntk1m15bml5banbnxkftztgwmzg1mzu2nje-2000x2857.jpg",
-                "caption": "<b>THE SIEGE OF JADOTVILLE</b><br>IMDB : 8.0<br><br><a href=\"page28.html\">SEE MORE</a>",
+                "caption": "<b>THE SIEGE OF JADOTVILLE</b><br>IMDB : 8.0<br><br><a href=\"page28.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6769,7 +6769,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmzuwmtrmmjytnji0zc00mzc3ltgyzgqtzta5otg5zmvkzdmxxkeyxkfqcgdeqxvyndqzmdg4nzk-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmzuwmtrmmjytnji0zc00mzc3ltgyzgqtzta5otg5zmvkzdmxxkeyxkfqcgdeqxvyndqzmdg4nzk-2000x2857.jpg",
-                "caption": "<b>CAPTAIN FANTASTIC</b><br>IMDB : 8.0<br><br><a href=\"page29.html\">SEE MORE</a>",
+                "caption": "<b>CAPTAIN FANTASTIC</b><br>IMDB : 8.0<br><br><a href=\"page29.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6779,7 +6779,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bztaxzwviytutmdljni00mmq5ltk2mzetymiwzdnkotfhzjk0xkeyxkfqcgdeqxvynjkxotcwnjc-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bztaxzwviytutmdljni00mmq5ltk2mzetymiwzdnkotfhzjk0xkeyxkfqcgdeqxvynjkxotcwnjc-2000x2857.jpg",
-                "caption": "<b>SICARIO</b><br>IMDB : 8.0<br><br><a href=\"page30.html\">SEE MORE</a>",
+                "caption": "<b>SICARIO</b><br>IMDB : 8.0<br><br><a href=\"page30.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6789,7 +6789,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmje5otm0oty5nf5bml5banbnxkftztgwmdcxotq3ode-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmje5otm0oty5nf5bml5banbnxkftztgwmdcxotq3ode-2000x2857.jpg",
-                "caption": "<b>ALL THE WAY</b><br>IMDB : 8.0<br><br><a href=\"page31.html\">SEE MORE</a>",
+                "caption": "<b>ALL THE WAY</b><br>IMDB : 8.0<br><br><a href=\"page31.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6799,7 +6799,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtg4nda1ota5nf5bml5banbnxkftztgwmdq2mdm5ode-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmtg4nda1ota5nf5bml5banbnxkftztgwmdq2mdm5ode-2000x2857.jpg",
-                "caption": "<b>HELL OR HIGH WATER</b><br>IMDB : 8.0<br><br><a href=\"page32.html\">SEE MORE</a>",
+                "caption": "<b>HELL OR HIGH WATER</b><br>IMDB : 8.0<br><br><a href=\"page32.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6808,8 +6808,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjewmzmxodizov5bml5banbnxkftztgwnzg3otazmdi-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjewmzmxodizov5bml5banbnxkftztgwnzg3otazmdi-2000x285715.jpg",
-                "caption": "<b>ROGUE ONE</b><br>IMDB : 8.0<br><br><a href=\"page33.html\">SEE MORE</a>",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjewmzmxodizov5bml5banbnxkftztgwnzg3otazmdi-2000x285711.jpg",
+                "caption": "<b>ROGUE ONE</b><br>IMDB : 8.0<br><br><a href=\"page33.html\">iNCELE</a>",
                 "active": false
               }
             ],
