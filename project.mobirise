@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "2017-2015.html",
     "name": "cineplus",
     "theme": {
       "name": "mobirise3",
@@ -737,7 +737,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857.jpg",
                 "caption": "<b>DANGAL</b><br>IMDB : 8.8<br><br><a href=\"dangal-eng.html\">SEE MORE</a>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Action, Adventure, Sci-Fi",
@@ -787,7 +787,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bngq4yjhmnzutzti1mc00otq3ltk4mtitywjhnddmngzjowu2xkeyxkfqcgdeqxvymta2nji0mq-2000x2857.jpg",
                 "caption": "<b>BOYKA UNDISPUTED 4</b><br>IMDB : 8.3<br><br><a href=\"boyka4-eng.html\">SEE MORE</a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Adventure, Comedy, Drama",
