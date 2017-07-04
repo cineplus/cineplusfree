@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "2017-2015.html",
+    "currentPage": "2017-2015-tr.html",
     "name": "cineplus",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 470,
+    "uniqCompNum": 476,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-1496623442199-128x128-1.png",
     "noImageResize": "",
@@ -36,7 +36,7 @@
       "settings": {
         "title": "Web Site Builder Title",
         "meta_descr": "Web Site Builder Description",
-        "order": 112
+        "order": 118
       },
       "components": [
         {
@@ -1854,7 +1854,7 @@
       "settings": {
         "title": "Web Site Builder Title",
         "meta_descr": "Web Site Builder Description",
-        "order": 111
+        "order": 117
       },
       "components": [
         {
@@ -6568,8 +6568,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtuymte0odcxnf5bml5banbnxkftztgwode4ndqznte-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmtuymte0odcxnf5bml5banbnxkftztgwode4ndqznte-2000x28570.jpg",
-                "caption": "<b>MAD MAX : FURY ROAD</b><br>IMDB : 8.6<br><br>iNCELE<br>",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtuymte0odcxnf5bml5banbnxkftztgwode4ndqznte-2000x28574.jpg",
+                "caption": "<b>MAD MAX : FURY ROAD</b><br>IMDB : 8.6<br><br><a href=\"madmaxfury-tr.html\">iNCELE</a><br>",
                 "active": false
               },
               {
@@ -6579,7 +6579,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjixnzm1odmynf5bml5banbnxkftztgwmtg5nze2ode-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmjixnzm1odmynf5bml5banbnxkftztgwmtg5nze2ode-2000x2857.jpg",
-                "caption": "<b>ANNABELLE HOOPER &amp; THE GHOSTS OF NANTUCHET</b><br>IMDB : 8.6<br><br><a href=\"page10.html\">iNCELE</a>",
+                "caption": "<b>ANNABELLE HOOPER &amp; THE GHOSTS OF NANTUCHET</b><br>IMDB : 8.6<br><br><a href=\"annabellehooper-tr.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6589,7 +6589,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5botgxmdqwmdk0of5bml5banbnxkftztgwnju5otg2nde-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5botgxmdqwmdk0of5bml5banbnxkftztgwnju5otg2nde-2000x2857.jpg",
-                "caption": "<b>INSIDE OUT</b><br>IMDB : 8.5<br><br><a href=\"page11.html\">iNCELE</a>",
+                "caption": "<b>INSIDE OUT</b><br>IMDB : 8.5<br><br><a href=\"insideout-tr.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6598,8 +6598,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x28571.jpg",
-                "caption": "<b>CAPTAIN AMERICA : CIVIL WAR</b><br>IMDB : 8.5<br><br><a href=\"page12.html\">iNCELE</a>",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjq0mtgynjaxmv5bml5banbnxkftztgwnjuzmdkyode-2000x28575.jpg",
+                "caption": "<b>CAPTAIN AMERICA : CIVIL WAR</b><br>IMDB : 8.5<br><br><a href=\"americacivilwar-tr.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6608,8 +6608,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x28572.jpg",
-                "caption": "<b>LOGAN</b><br>IMDB : 8.5<br><br><a href=\"page13.html\">iNCELE</a>",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjqwodqwntg4ov5bml5banbnxkftztgwmtk4mtazmji-2000x28576.jpg",
+                "caption": "<b>LOGAN</b><br>IMDB : 8.5<br><br><a href=\"logan-tr.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6619,7 +6619,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bnty4mdgwoti3m15bml5banbnxkftztgwnjyxmju3nje-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bnty4mdgwoti3m15bml5banbnxkftztgwnjyxmju3nje-2000x2857.jpg",
-                "caption": "<b>WINTER ON FIRE : UKRAINE' S FIGHT FOR FREEDOM</b><br>IMDB : 8.4<br><br><a href=\"page14.html\">iNCELE</a>",
+                "caption": "<b>WINTER ON FIRE : UKRAINE' S FIGHT FOR FREEDOM</b><br>IMDB : 8.4<br><br><a href=\"winteronfire-tr.html\">iNCELE</a>",
                 "active": false
               },
               {
@@ -6808,7 +6808,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmjewmzmxodizov5bml5banbnxkftztgwnzg3otazmdi-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjewmzmxodizov5bml5banbnxkftztgwnzg3otazmdi-2000x28573.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjewmzmxodizov5bml5banbnxkftztgwnzg3otazmdi-2000x28577.jpg",
                 "caption": "<b>ROGUE ONE</b><br>IMDB : 8.0<br><br><a href=\"page33.html\">iNCELE</a>",
                 "active": false
               }
@@ -6931,7 +6931,7 @@
       "settings": {
         "title": "",
         "meta_descr": "",
-        "order": 108
+        "order": 114
       },
       "components": [
         {
@@ -7329,7 +7329,7 @@
       "settings": {
         "title": "",
         "meta_descr": "",
-        "order": 109
+        "order": 115
       },
       "components": [
         {
@@ -7727,7 +7727,7 @@
       "settings": {
         "title": "",
         "meta_descr": "",
-        "order": 110
+        "order": 116
       },
       "components": [
         {
@@ -18295,6 +18295,354 @@
             }
           },
           "title": "THE IVORY GAME",
+          "text": "<b>WATCH in 5 PARTS.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p1.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 1</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p2.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 2</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p3.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 3</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p4.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 4</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p5.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 5</a>      "
+        }
+      ]
+    },
+    "madmaxfury-tr.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 108
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-d2",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857-800x1142.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/hEJnMQG9ev8?rel=0&amp;showinfo=0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "MAD MAX : FURY ROAD",
+          "text": "<b>WATCH in 5 PARTS.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p1.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 1</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p2.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 2</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p3.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 3</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p4.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 4</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p5.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 5</a>      "
+        }
+      ]
+    },
+    "annabellehooper-tr.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 109
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-d3",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857-800x1142.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/MNd4BJHSDeY?rel=0&amp;showinfo=0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ANNABELLE HOOPER &amp; THE GHOSTS OF NANTUCHET",
+          "text": "<b>WATCH in 5 PARTS.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p1.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 1</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p2.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 2</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p3.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 3</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p4.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 4</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p5.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 5</a>      "
+        }
+      ]
+    },
+    "insideout-tr.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 110
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-d4",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857-800x1142.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/seMwpP0yeu4?rel=0&amp;showinfo=0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "INSIDE OUT",
+          "text": "<b>WATCH in 5 PARTS.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p1.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 1</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p2.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 2</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p3.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 3</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p4.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 4</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p5.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 5</a>      "
+        }
+      ]
+    },
+    "americacivilwar-tr.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 111
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-d5",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857-800x1142.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/dKrVegVI0Us?rel=0&amp;showinfo=0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CAPTAIN AMERICA : CIVIL WAR",
+          "text": "<b>WATCH in 5 PARTS.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p1.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 1</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p2.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 2</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p3.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 3</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p4.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 4</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p5.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 5</a>      "
+        }
+      ]
+    },
+    "logan-tr.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 112
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-d6",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857-800x1142.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/gbug3zTm3Ws?rel=0&amp;showinfo=0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "LOGAN",
+          "text": "<b>WATCH in 5 PARTS.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p1.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 1</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p2.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 2</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p3.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 3</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p4.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 4</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p5.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 5</a>      "
+        }
+      ]
+    },
+    "winteronfire-tr.html": {
+      "settings": {
+        "title": "Site Builder Title",
+        "meta_descr": "Site Builder Description",
+        "order": 113
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-d7",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mv5bmtq4mzqzmzm2nl5bml5banbnxkftztgwmtq1nzu3mdi-2000x2857-800x1142.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/RibAQHeDia8?rel=0&amp;showinfo=0",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "WINTER ON FIRE : UKRAINE' S FIGHT FOR FREEDOM",
           "text": "<b>WATCH in 5 PARTS.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p1.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 1</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p2.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 2</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p3.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 3</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p4.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 4</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://ultradoc.xyz/st03/1491098640/The.Ivory.Game.2016.TR/480/The.Ivory.Game.2016.TR-p5.mp4\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>PART 5</a>      "
         }
