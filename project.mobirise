@@ -6951,6 +6951,16 @@
             "paddingBottom": "0",
             "images": [
               {
+                "tags": "Macera, Komedi, Dram",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmtqzmteyody2ml5bml5banbnxkftztgwmja0mduymje-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtqzmteyody2ml5bml5banbnxkftztgwmja0mduymje-2000x2857.jpg",
+                "caption": "<b>BARFİ!</b><br>IMDB : 8.7<br><br><a href=\"page27.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
                 "tags": "Dram, Müzik",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -7011,6 +7021,16 @@
                 "active": false
               },
               {
+                "tags": "Macera, Fantezi",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmtcwnte4mtuxml5bml5banbnxkftztcwmdiyodm4oa-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtcwnte4mtuxml5bml5banbnxkftztcwmdiyodm4oa-2000x2857.jpg",
+                "caption": "<b>HOBBIT : BEKLENMEDİK YOLCULUK (2012)</b><br>IMDB : 8.4<br><br><a href=\"page28.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
                 "tags": "Dram",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -7041,6 +7061,26 @@
                 "active": false
               },
               {
+                "tags": "Macera, Fantezi",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmzu0ndy0ndeznv5bml5banbnxkftztgwotixndu1mde-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmzu0ndy0ndeznv5bml5banbnxkftztgwotixndu1mde-2000x2857.jpg",
+                "caption": "<b>HOBBIT 2 : SMAUG' UN ÇORAK TOPRAKLARI</b><br>IMDB : 8.0<br><br><a href=\"page19.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
+                "tags": "Macera, Dram, Fantezi",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bntg2oty2odg5of5bml5banbnxkftztcwodm5mtyxoa-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bntg2oty2odg5of5bml5banbnxkftztcwodm5mtyxoa-2000x2857.jpg",
+                "caption": "<b>Pİ' NİN YAŞAMI</b><br>IMDB : 8.3<br><br><a href=\"page29.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
                 "tags": "Aksiyon, Macera, Bilim-Kurgu",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -7058,16 +7098,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmja4nzkxnzc5ml5bml5banbnxkftztgwnzq3otmxmte-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmja4nzkxnzc5ml5bml5banbnxkftztgwnzq3otmxmte-2000x2857.jpg",
                 "caption": "<b>AYNI YILDIZIN ALTINDA</b><br>IMDB : 8.2<br><br><a href=\"page18.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Macera, Fantezi",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bmzu0ndy0ndeznv5bml5banbnxkftztgwotixndu1mde-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmzu0ndy0ndeznv5bml5banbnxkftztgwotixndu1mde-2000x2857.jpg",
-                "caption": "<b>HOBBIT 2 : SMAUG' UN ÇORAK TOPRAKLARI</b><br>IMDB : 8.0<br><br><a href=\"page19.html\">SEE MORE</a>",
                 "active": false
               },
               {
@@ -7091,6 +7121,16 @@
                 "active": false
               },
               {
+                "tags": "Belgesel",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmjmzmtuwnjc5of5bml5banbnxkftztgwmdq1ndaxmze-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmjmzmtuwnjc5of5bml5banbnxkftztgwmdq1ndaxmze-2000x2857.jpg",
+                "caption": "<b>McCULLIN</b><br>IMDB : 8.2<br><br><a href=\"page30.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
                 "tags": "Biyografi, Dram, Suç",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -7098,6 +7138,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtqznzexmdg3ml5bml5banbnxkftztgwodu1nzezmde-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmtqznzexmdg3ml5bml5banbnxkftztgwodu1nzezmde-2000x2857.jpg",
                 "caption": "<b>KAPTAN PHILLIPS</b><br>IMDB : 8.1<br><br><a href=\"page22.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
+                "tags": "Aksiyon, Suç, Dram",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmtc5njy4mjuwnf5bml5banbnxkftztgwodm3nzm5mze-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtc5njy4mjuwnf5bml5banbnxkftztgwodm3nzm5mze-2000x2857.jpg",
+                "caption": "<b>WASSEYPUR ÇETELERİ</b><br>IMDB : 8.1<br><br><a href=\"page31.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
+                "tags": "Dram, Romantik",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmzixotqyodu1ov5bml5banbnxkftztcwmdq4mjg4nw-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmzixotqyodu1ov5bml5banbnxkftztcwmdq4mjg4nw-2000x2857.jpg",
+                "caption": "<b>SAKSI OLMANIN FAYDALARI</b><br>IMDB : 8.1<br><br><a href=\"page32.html\">SEE MORE</a>",
                 "active": false
               },
               {
@@ -7109,6 +7169,16 @@
                 "image": "@PROJECT_PATH@/assets/images/mv5bmtq1mjqwmte5of5bml5banbnxkftztgwnjk3mtcymde-2000x2857.jpg",
                 "caption": "<b>KARLAR ÜLKESİ</b><br>IMDB : 8.0<br><br><a href=\"page23.html\">SEE MORE</a>",
                 "active": false
+              },
+              {
+                "tags": "Macera, Bilim-Kurgu, Suç",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmja4ndg3nzyxmf5bml5banbnxkftztcwntgynzkynw-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmja4ndg3nzyxmf5bml5banbnxkftztcwntgynzkynw-2000x2857.jpg",
+                "caption": "<b>AÇLIK OYUNLARI (2012)</b><br>IMDB : 7.9<br><br><a href=\"page33.html\">SEE MORE</a>",
+                "active": true
               },
               {
                 "tags": "Komedi, Dram, Fantezi",
@@ -7138,76 +7208,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmtm3nja1ndmymv5bml5banbnxkftztcwmdqzndmzoq-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmtm3nja1ndmymv5bml5banbnxkftztcwmdqzndmzoq-2000x2857.jpg",
                 "caption": "<b>KORKU SEANSI</b><br>IMDB : 7.7<br><br><a href=\"page26.html\">SEE MORE</a>",
-                "active": true
-              },
-              {
-                "tags": "Drama, Romance",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bytrjmzqzywutmmu3ny00mjzhlthjm2qtnjziy2yxn2rjymuxl2ltywdll2ltywdlxkeyxkfqcgdeqxvymjq3nzuxotm-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bytrjmzqzywutmmu3ny00mjzhlthjm2qtnjziy2yxn2rjymuxl2ltywdll2ltywdlxkeyxkfqcgdeqxvymjq3nzuxotm-2000x2857.jpg",
-                "caption": "<b>ALI AND NINO</b><br>IMDB : 7.8<br><br><a href=\"page27.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Action, Adventure, Sci-Fi",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bmju1odm1mzyxn15bml5banbnxkftztgwota4nde2ode-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmju1odm1mzyxn15bml5banbnxkftztgwota4nde2ode-2000x2857.jpg",
-                "caption": "<b>X-MEN APOCALYPSE</b><br>IMDB : 7.7<br><br><a href=\"page28.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Comedy, Drama",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bmzuynda5njc4nv5bml5banbnxkftztgwmdi1nzg4ote-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmzuynda5njc4nv5bml5banbnxkftztgwmdi1nzg4ote-2000x2857.jpg",
-                "caption": "<b>MR. CHURCH</b><br>IMDB : 7.7<br><br><a href=\"page29.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Documentary, Biography, History",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bnty3ztdmnzitnjy4ns00zdy1ltg5mwmtzjblndzlntu5owflxkeyxkfqcgdeqxvynju1oda5mzu-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bnty3ztdmnzitnjy4ns00zdy1ltg5mwmtzjblndzlntu5owflxkeyxkfqcgdeqxvynju1oda5mzu-2000x2857.jpg",
-                "caption": "<b>ONLY THE DEAD</b><br>IMDB : 7.7<br><br><a href=\"page30.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Action, Drama",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bnthknmqwmzatytm0zs00ngizlwezmgmtm2ezzjuzntk4ymnkxkeyxkfqcgdeqxvyndy5mtuynju-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bnthknmqwmzatytm0zs00ngizlwezmgmtm2ezzjuzntk4ymnkxkeyxkfqcgdeqxvyndy5mtuynju-2000x2857.jpg",
-                "caption": "<b>BADLAPUR</b><br>IMDB : 7.6<br><br><a href=\"page31.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Action, Animation, Adventure",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bnzbimtlhntatndc4yi00m2filwe3odmtnzgwnwi3zgfhyjnkxkeyxkfqcgdeqxvymjq5njmxnda-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bnzbimtlhntatndc4yi00m2filwe3odmtnzgwnwi3zgfhyjnkxkeyxkfqcgdeqxvymjq5njmxnda-2000x2857.jpg",
-                "caption": "<b>ONE PIECE FILM : GOLD</b><br>IMDB : 7.6<br><br><a href=\"page32.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Comedy, Drama",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5byzkwnmyyztetzmi0yi00zdjlltlkmzctntg4ngm1zdnhm2nkxkeyxkfqcgdeqxvynduwntg4ntu-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5byzkwnmyyztetzmi0yi00zdjlltlkmzctntg4ngm1zdnhm2nkxkeyxkfqcgdeqxvynduwntg4ntu-2000x2857.jpg",
-                "caption": "<b>A MAN CALLED OVE</b><br>IMDB : 7.5<br><br><a href=\"page33.html\">SEE MORE</a>",
                 "active": false
               }
             ],
@@ -14180,7 +14180,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mv5bmjixntu4mzy4mf5bml5banbnxkftztgwmzm4odi3mje-2000x28574.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mv5bmjixntu4mzy4mf5bml5banbnxkftztgwmzm4odi3mje-2000x28576.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
