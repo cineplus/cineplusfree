@@ -7058,87 +7058,87 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mv5bmja4nzkxnzc5ml5bml5banbnxkftztgwnzq3otmxmte-2000x2857-800x1142.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mv5bmja4nzkxnzc5ml5bml5banbnxkftztgwnzq3otmxmte-2000x2857.jpg",
                 "caption": "<b>AYNI YILDIZIN ALTINDA</b><br>IMDB : 8.2<br><br><a href=\"page18.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
+                "tags": "Macera, Fantezi",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmzu0ndy0ndeznv5bml5banbnxkftztgwotixndu1mde-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmzu0ndy0ndeznv5bml5banbnxkftztgwotixndu1mde-2000x2857.jpg",
+                "caption": "<b>HOBBIT 2 : SMAUG' UN ÇORAK TOPRAKLARI</b><br>IMDB : 8.0<br><br><a href=\"page19.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
+                "tags": "Aksiyon, Macera, Bilim-Kurgu",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmtcymdkwnziwof5bml5banbnxkftztcwndu4oduzoq-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtcymdkwnziwof5bml5banbnxkftztcwndu4oduzoq-2000x2857.jpg",
+                "caption": "<b>STAR TREK : BİLİNMEZE DOĞRU</b><br>IMDB : 8.2<br><br><a href=\"page20.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
+                "tags": "Aksiyon, Macera, Gizem",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmtaymjq3otaxmzneqtjeqwpwz15bbwu4mdu0nza1mzax-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtaymjq3otaxmzneqtjeqwpwz15bbwu4mdu0nza1mzax-2000x2857.jpg",
+                "caption": "<b>AÇLIK OYUNLARI 2 : ATEŞİ YAKALAMAK</b><br>IMDB : 8.2<br><br><a href=\"page21.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
+                "tags": "Biyografi, Dram, Suç",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmtqznzexmdg3ml5bml5banbnxkftztgwodu1nzezmde-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtqznzexmdg3ml5bml5banbnxkftztgwodu1nzezmde-2000x2857.jpg",
+                "caption": "<b>KAPTAN PHILLIPS</b><br>IMDB : 8.1<br><br><a href=\"page22.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
+                "tags": "Animasyon, Macera, Komedi",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmtq1mjqwmte5of5bml5banbnxkftztgwnjk3mtcymde-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtq1mjqwmte5of5bml5banbnxkftztgwnjk3mtcymde-2000x2857.jpg",
+                "caption": "<b>KARLAR ÜLKESİ</b><br>IMDB : 8.0<br><br><a href=\"page23.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
+                "tags": "Komedi, Dram, Fantezi",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmta1oduzmda3nzfeqtjeqwpwz15bbwu3mdgxmtyxntk-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmta1oduzmda3nzfeqtjeqwpwz15bbwu3mdgxmtyxntk-2000x2857.jpg",
+                "caption": "<b>ZAMANDA AŞK</b><br>IMDB : 7.8<br><br><a href=\"page24.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
+                "tags": "Komedi, Dram, Aile",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bnjk3mjyzotcyn15bml5banbnxkftztcwmzm5nji3oq-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bnjk3mjyzotcyn15bml5banbnxkftztcwmzm5nji3oq-2000x2857.jpg",
+                "caption": "<b>SIRADIŞI KAHRAMAN</b><br>IMDB : 7.8<br><br><a href=\"page25.html\">SEE MORE</a>",
+                "active": false
+              },
+              {
+                "tags": "Korku, Gizem, Suç",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mv5bmtm3nja1ndmymv5bml5banbnxkftztcwmdqzndmzoq-2000x2857-800x1142.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mv5bmtm3nja1ndmymv5bml5banbnxkftztcwmdqzndmzoq-2000x2857.jpg",
+                "caption": "<b>KORKU SEANSI</b><br>IMDB : 7.7<br><br><a href=\"page26.html\">SEE MORE</a>",
                 "active": true
-              },
-              {
-                "tags": "Biography, Drama",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bmja3njkznjg2mf5bml5banbnxkftztgwmdkymzgzmdi-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmja3njkznjg2mf5bml5banbnxkftztgwmdkymzgzmdi-2000x2857.jpg",
-                "caption": "<b>LION</b><br>IMDB : 8.0<br><br><a href=\"page19.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Comedy, Drama",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bmtuwotmxnjc2ov5bml5banbnxkftztgwodq4otmxnte-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmtuwotmxnjc2ov5bml5banbnxkftztgwodq4otmxnte-2000x2857.jpg",
-                "caption": "<b>PIKU</b><br>IMDB : 7.9<br><br><a href=\"page20.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Action, Biography, Drama",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bmtkxnzc0mjgwn15bml5banbnxkftztgwmzy3nzk1nze-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmtkxnzc0mjgwn15bml5banbnxkftztgwmzy3nzk1nze-2000x2857.jpg",
-                "caption": "<b>IP MAN 3</b><br>IMDB : 7.9<br><br><a href=\"page21.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Adventure, Family, Fantasy",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bmjmxotm1oti4mv5bml5banbnxkftztgwode5otyxmdi-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjmxotm1oti4mv5bml5banbnxkftztgwode5otyxmdi-2000x2857.jpg",
-                "caption": "<b>FANTASTIC BEASTS</b><br>IMDB : 7.9<br><br><a href=\"page22.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Action, Crime, Thriller",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bmtqxota2nduzov5bml5banbnxkftztgwnzy2mtmxmze-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmtqxota2nduzov5bml5banbnxkftztgwnzy2mtmxmze-2000x2857.jpg",
-                "caption": "<b>FURIOUS 7</b><br>IMDB : 7.8<br><br><a href=\"page23.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Action, Adventure, Fantasy",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bmjiwntm0mzc5mv5bml5banbnxkftztgwmdk5ndu1ode-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmjiwntm0mzc5mv5bml5banbnxkftztgwmdk5ndu1ode-2000x2857.jpg",
-                "caption": "<b>WAR CRAFT</b><br>IMDB : 7.8<br><br><a href=\"page24.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Action, Drama, Horror",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bmtkwotq4otg0ov5bml5banbnxkftztgwmzqyotm0ote-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bmtkwotq4otg0ov5bml5banbnxkftztgwmzqyotm0ote-2000x2857.jpg",
-                "caption": "<b>TRAIN TO BUSAN</b><br>IMDB : 7.8<br><br><a href=\"page25.html\">SEE MORE</a>",
-                "active": false
-              },
-              {
-                "tags": "Action, Adventure, Sci-Fi",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mv5bnjgwnzaznjk1nl5bml5banbnxkftztgwmzq2nji1ote-2000x2857-800x1142.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mv5bnjgwnzaznjk1nl5bml5banbnxkftztgwmzq2nji1ote-2000x2857.jpg",
-                "caption": "<b>DOCTOR STRANGE</b><br>IMDB : 7.8<br><br><a href=\"page26.html\">SEE MORE</a>",
-                "active": false
               },
               {
                 "tags": "Drama, Romance",
@@ -14180,7 +14180,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mv5bmjixntu4mzy4mf5bml5banbnxkftztgwmzm4odi3mje-2000x28572.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mv5bmjixntu4mzy4mf5bml5banbnxkftztgwmzm4odi3mje-2000x28574.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
