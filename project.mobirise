@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "2014-2012-tr.html",
+    "currentPage": "index.html",
     "name": "cineplus",
     "theme": {
       "name": "mobirise3",
@@ -14180,7 +14180,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mv5bmjixntu4mzy4mf5bml5banbnxkftztgwmzm4odi3mje-2000x28576.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mv5bmjixntu4mzy4mf5bml5banbnxkftztgwmzm4odi3mje-2000x28570.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
